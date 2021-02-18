@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harsh Kuamr @harsh1kumar
+- 👋 Hi, I’m Harsh Kumar @harsh1kumar
 - 👀 I’m interested in Machine Learning and Analytics
 - 🌱 I’m currently learning Fastai and Deep Learning
 - 📫 How to reach me at harshkacc1@gmail.com
