@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Kumar @harsh1kumar
 - 👀 I’m interested in Machine Learning and Analytics
-- 🌱 I’m currently learning Fastai and Deep Learning
+- 🌱 I’m currently learning Golang and Airflow
 - 📫 How to reach me at http://harshkumar.in and harshkacc1@gmail.com
 
 <!---
