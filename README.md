@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Kumar @harsh1kumar
 - 👀 I’m interested in Machine Learning and Analytics
-- 🌱 I’m currently learning Golang and Airflow
+- 🌱 I’m currently learning Julia
 - 📫 How to reach me at http://harshkumar.in and harshkacc1@gmail.com
 
 <!---
