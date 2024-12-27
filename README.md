@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harsh Kumar @harsh1kumar
-- 👀 I’m interested in Machine Learning and Analytics
-- 🌱 I’m currently learning Julia
+- 👀 I’m interested in Machine Learning and Data Analytics
 - 📫 How to reach me at http://harshkumar.in and harshkacc1@gmail.com
 
 <!---
